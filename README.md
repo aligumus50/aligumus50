@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aligumus50)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aligumus50)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aligumus50&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/aligumus50)  
 
 
